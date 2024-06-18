@@ -45,13 +45,19 @@ Reagents (chemicals) you will need
 
 **Other Useful Links**
 Video guides detailing assembly of 3D-printed syringe pump and Slic3r software setup 
+
 https://www.youtube.com/channel/UCEwYrE9pROR0kinbDDSCFWg/videos 
+
 Article detailing 3D bioprinter hardware/software conversion processes and algae bioink preparation 
+
 https://www.hackster.io/dynamic-ink/open-affordable-3d-bioprinting-14d68b
 
 Pronterface program for controlling bioprinter directly from computer while connected via USB https://www.pronterface.com/ Index of G-code commands https://marlinfw.org/meta/gcode/
 
 Slic3r program for slicing STL files 
+
 https://slic3r.org/ 
+
 Video guide detailing setup of Slic3r program for printing with sodium alginate 
+
 https://www.youtube.com/watch?v=ASdhIE9vMF8
